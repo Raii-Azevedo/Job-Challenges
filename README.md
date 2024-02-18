@@ -12,6 +12,8 @@ The main objective of repository is testing knowledge using real jobs challenge.
 | pt   | :brazil: [BANESTES](https://www.banestes.com.br/)            |   Google Sheets Power BI HTML  CSS  JS         | Data Analysis and Web Development                | [Code →](https://github.com/Raii-Azevedo/banestes)      |
 | pt   | :brazil: [TARGET](https://targetsistemas.com.br/filiais)            |   Python        | Data Analysis Programming             | [Code →](https://github.com/Raii-Azevedo/Target/tree/master)  |
 | pt   | :brazil: [D3](https://www.d3.do/)            |   Python        | Data Analysis Programming             | [Code →](https://github.com/Raii-Azevedo/D3-Challenge)  |
+| en   | 🇬🇧: [META](https://about.meta.com/)            |   Python        | Testing Programming Skills             | Live Coding  |
+| pt   | :brazil: [VALE]()            |   HTML CSS SQL JavaScript Python      | Data Analysis Web Development         | [Code →](https://github.com/Raii-Azevedo/Webwall)  |
 
 ## License
 
