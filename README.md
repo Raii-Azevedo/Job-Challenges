@@ -1,5 +1,5 @@
 # Job-Challenges
-Here some Challenges that i did for some companies. Every experience counts including the failed ones.
+Here are some challenges I did for some companies. Some got me job offers, and others were a big miss but important for gaining experience. All experiences count, including failed ones.
 <p align="center"><img src="https://media.tenor.com/zA-zNlag2O4AAAAi/meme.gif" alt="Challenge Accepted" width="200"></p>
 
 # Job Challenges
