@@ -9,7 +9,9 @@ The main objective of repository is testing knowledge using real jobs challenge.
 
 |      | Company                                              | Stack                                         | Challenge                                                     |     Code                                                    |
 | ---- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| pt   | :brazil: [BANESTES](https://www.banestes.com.br/)            |   Google Sheets Power BI HTML  CSS  JS         | Data Analysis and Web Development                | [Code →](https://github.com/Raii-Azevedo/banestes)                              
+| pt   | :brazil: [BANESTES](https://www.banestes.com.br/)            |   Google Sheets Power BI HTML  CSS  JS         | Data Analysis and Web Development                | [Code →](https://github.com/Raii-Azevedo/banestes)      
+
+| pt   | :brazil: [TARGET](https://targetsistemas.com.br/filiais)            |   Python        | Data Analysis Programming             | [Code →](https://github.com/Raii-Azevedo/Target/tree/master)  
 
 ## License
 
