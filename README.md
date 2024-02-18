@@ -7,7 +7,7 @@ Here some Challenges that i did for some companies. Every experience counts incl
 The main objective of repository is testing knowledge using real jobs challenge. :smiley_cat:
 
 
-|      | Company                   | Stack                                         | Challenge                                                                               |                                                         |
+|      | Company                                              | Stack                                         | Challenge                                                                               |                                                         |
 | ---- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | pt   | :brazil: [BANESTES](https://www.banestes.com.br/)                        | Data Analysis and Development (Google Sheets | Power BI | HTML | CSS | JS)                | [Code →](https://github.com/Raii-Azevedo/banestes)                              
 
