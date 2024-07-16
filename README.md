@@ -15,7 +15,7 @@ The main objective of repository is testing knowledge using real jobs challenge.
 | en   | 🇬🇧: [META](https://about.meta.com/)            |   Python        | Testing Programming Skills             | Live Coding  |
 | pt   | :brazil: [VALE](https://vale.com/pt/)            |   HTML CSS SQL JavaScript Python      | Data Analysis Web Development         | [Code →](https://github.com/Raii-Azevedo/Webwall)  |
 | pt   | :brazil: [DIRECTY](https://directy.com.br/)            |   ETL PowerBI Excel      | Data Analysis       | [Code →](https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Desafio%20Metas%20x%20Vendas)|
-| pt   | :brazil: [ARTEFACT](https://www.artefact.com/pt-br/)         | ETL Power BI DataViz IA  | Analytics Engineer | [Code →](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Ra%C3%ADssa%20Azevedo%20-%20Analytics%20Engineer%20Brazil.zip)|
+| en   | :brazil: [ARTEFACT](https://www.artefact.com/pt-br/)         | ETL Power BI DataViz IA  | Analytics Engineer | [Code →](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Ra%C3%ADssa%20Azevedo%20-%20Analytics%20Engineer%20Brazil.zip)|
 
 
 
